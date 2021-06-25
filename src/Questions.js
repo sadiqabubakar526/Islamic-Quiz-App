@@ -16,7 +16,7 @@ export  const questions = [
     },
     {
         question:'What does Islam mean ?',
-        options:['Islam means to obey Allah (s.w.t.) and follow His commands','Islam means to obey our parents','Islam means to obey our teachers and elders', 'None of the above'],
+        options:['Islam means to obey Allah (S.W.T.) and follow His commands','Islam means to obey our parents','Islam means to obey our teachers and elders', 'None of the above'],
         answer:'Islam means to obey Allah (s.w.t.) and follow His commands'
     },
     {
