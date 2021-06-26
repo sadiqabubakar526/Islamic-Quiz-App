@@ -21,7 +21,7 @@ class Quiz extends Component {
 		const myOptions = document.querySelectorAll('.option');
 			myOptions.forEach(option=>{
 				if(!correctness)
-				option.className="option"k
+				option.className="option"
 			})
 		return ( 
 	   <div className="quiz box">
